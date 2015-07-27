@@ -1,5 +1,5 @@
 # cqltx-rest-driver
-drive for restful interface of cql-tx
+driver for restful interface of cql-tx
 
 ## Usage
 ```java
